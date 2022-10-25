@@ -9,7 +9,7 @@ class BicycleRegistration
 
 	 
 
-		bike_1 =new Bicycle();
+		bike_1 = new Bicycle();
 		bike_1.setOwnerName("Adam Smith");
 		bike_1.settagNo(" 2004-13R");
 		
