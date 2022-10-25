@@ -21,7 +21,7 @@ class BicycleRegistration
 		owner1 = bike_1.getownerName();
 		owner2 = bike_2.getownerName();
 		tagNo1 = bike_1.gettagNo();
-        tagNo2 = bike_2.gettagNo(); 
+                tagNo2 = bike_2.gettagNo(); 
 		System.out.println(owner1 + " owns a Bicycle with tagNo" + tagNo1);
 		System.out.println(owner2 + " also owns a Bicycle with tagNo" + tagNo2);
 
